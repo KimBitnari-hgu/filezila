@@ -1,1 +1,2 @@
 1. putty 실행
+2. HostName은 raspberry pi의 ip주소
