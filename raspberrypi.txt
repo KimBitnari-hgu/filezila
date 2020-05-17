@@ -11,3 +11,4 @@
   6-1.  cd /var/www/html 를 통해서 해당 directory로 이동
   6-2.  vi index.html 로 내용 작성
   6-3.  cat index.html 로 내용 확인
+7. 페이지 새로고침해서 바뀐 기본 페이지 확인 가능
